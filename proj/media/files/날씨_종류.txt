@@ -1,0 +1,20 @@
+Main = {
+Thunderstorm,
+Drizzle,
+Rain,
+Snow,
+Clear,
+Clouds }
+
+6개가 중심인데 그 막 황사?미세먼지처럼 이상현상인것들은.
+{	mist,	
+	Smoke,	
+	Haze,	
+	Dust,	
+	Fog,	
+	Sand,	
+	Dust,	
+	Ash,	
+	Squall,	
+	Tornado,
+}
